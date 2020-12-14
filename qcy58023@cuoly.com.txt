@@ -1,6 +1,0 @@
-хостинг - https://ru.000webhost.com/vhod-v-cpanel
-почта мой gmail
-пароль от панели qcy58023
-Название проекта - laravel-blog-project
-
-БД: admin - KICxsUJUiU5wiR!M - laravel_blog
